@@ -15,14 +15,14 @@
         "company": {
             "name": "StakePool in Swiss",
             "addr": "..",
-            "city": "Geneve",
+            "city": "Geneva",
             "country": "Swiss",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
             "me": "STK Pool Maintainer",
-            "server": "Linux Server Hosted in Geneve 300MB up/down, solar/hydroelectric energy."
+            "server": "3 Linux Server Hosted in Geneve 500MB up/down, solar energy."
         }
     }
 }
