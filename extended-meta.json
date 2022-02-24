@@ -4,13 +4,13 @@
         "url_png_logo": "",
         "location": "Geneve, Swiss",
         "social": {
-            "twitter_handle": "NO",
-            "telegram_handle": "NO",
-            "facebook_handle": "NO",
-            "youtube_handle": "NO",
-            "twitch_handle": "NO",
-            "discord_handle": "NO",
-            "github_handle": "NO"
+            "twitter_handle": "STKCH9",
+            "telegram_handle": "Mark_STKCH",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
         },
         "company": {
             "name": "StakePool in Swiss",
@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "STK Pool Maintainer",
-            "server": "3 Linux Server Hosted in Geneve 500MB up/down, solar energy."
+            "server": "3 Linux Server Hosted in Geneva 300MB up/down, solar energy."
         }
     }
 }
